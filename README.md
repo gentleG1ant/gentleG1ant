@@ -41,5 +41,4 @@ Working on practical projects involving Python, machine learning, data processin
 ## Connect With Me
 
 [LinkedIn](www.linkedin.com/in/raj-aryan-dev
-)
-• [GitHub](https://github.com/gentleG1ant)
+)• [GitHub](https://github.com/gentleG1ant)
