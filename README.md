@@ -33,9 +33,6 @@ Working on practical projects involving Python, machine learning, data processin
 ## Featured Projects
 
 - **[DSA-Java](https://github.com/gentleG1ant/DSA-Java)** — Java implementations of DSA problems and concepts.
-- **AI-Powered Resume Screening & Skill Matching System** — AI-based project for resume analysis and skill matching.
-- **Secure Encryption & Decryption** — AES encryption combined with Base64 encoding and LSB steganography.
-
 ---
 
 ## Connect With Me
