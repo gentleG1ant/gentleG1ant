@@ -1,3 +1,6 @@
+<h2 align="center">
+  🟢 ✦ KEEP LEARNING • KEEP GROWING ✦ 🟢
+</h2>
 # Hi, I'm Raj Aryan
 
 ### MCA Student | Java & DSA | Python | AI/ML
