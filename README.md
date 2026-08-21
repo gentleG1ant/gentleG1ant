@@ -10,7 +10,7 @@ I am an MCA student focused on building strong programming fundamentals, solving
 Currently working on:
 - Java & Data Structures and Algorithms
 - Python & AI/ML
-- PostgreSQL
+- SQL
 - Placement-oriented projects
 
 ---
