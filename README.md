@@ -90,18 +90,6 @@ Working on practical projects involving Python, machine learning, data processin
 
 ---
 
-## 🧠 DSA Progress
-
-| Topic               | Progress                  |
-| ------------------- | ------------------------- |
-| Arrays              | ████████████████████ 100% |
-| Strings             | ██████████████████░░ 90%  |
-| Linked Lists        | ███████████████░░░░░ 75%  |
-| Stack & Queue       | ████████████░░░░░░░░ 60%  |
-| Recursion           | ████████░░░░░░░░░░░░ 40%  |
-| Binary Trees        | ██████░░░░░░░░░░░░░░ 30%  |
-| Graphs              | ███░░░░░░░░░░░░░░░░░ 15%  |
-| Dynamic Programming | ██░░░░░░░░░░░░░░░░░░ 10%  |
 
 ---
 
