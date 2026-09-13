@@ -2,27 +2,41 @@
   🟢 ✦ KEEP LEARNING • KEEP GROWING ✦ 🟢
 </h2>
 
-# Hi, I'm Raj Aryan
+<h1 align="center">Hi, I'm Raj Aryan</h1>
 
-### MCA Student | Java & DSA | Python | AI/ML
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Java+%26+DSA;Python+%7C+AI%2FML;Building+Projects+%7C+Preparing+for+Placements" alt="Typing introduction" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/gentleG1ant">
+    <img src="https://komarev.com/ghpvc/?username=gentleG1ant&style=flat-square&color=blue" alt="Profile views"/>
+  </a>
+</p>
+
+---
+
+## About Me
 
 I am an MCA student focused on building strong programming fundamentals, solving Data Structures & Algorithms problems, and developing practical software projects.
 
-Currently working on:
+### Currently working on
 
 * Java & Data Structures and Algorithms
 * Python & AI/ML
-* SQL
+* SQL & DBMS
 * Placement-oriented projects
 
 ---
 
 ## Current Focus
 
-**Java & DSA**
+### Java & DSA
+
 Building problem-solving skills through consistent practice and maintaining structured solutions in my [DSA-Java repository](https://github.com/gentleG1ant/DSA-Java).
 
-**AI & Machine Learning**
+### AI & Machine Learning
+
 Working on practical projects involving Python, machine learning, data processing, and AI-based applications.
 
 ---
@@ -59,37 +73,24 @@ Working on practical projects involving Python, machine learning, data processin
 
 ---
 
-## 📈 Development Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=gentleG1ant&theme=github-compact&hide_border=true"
-    width="100%"
-  />
-</p>
-
----
-
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api?username=gentleG1ant&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github"
     height="180"
+    alt="GitHub Statistics"
   />
-
-<img
- src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentleG1ant&layout=compact&hide_border=true&langs_count=8"
- height="180"
-/>
-
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentleG1ant&layout=compact&langs_count=8&hide_border=true"
+    height="180"
+    alt="Top Languages"
+  />
 </p>
 
 ---
 
 ## 🧠 DSA Progress
-
-My DSA learning roadmap is focused on building strong problem-solving fundamentals through consistent implementation and practice.
 
 | Topic               | Progress                  |
 | ------------------- | ------------------------- |
@@ -102,29 +103,16 @@ My DSA learning roadmap is focused on building strong problem-solving fundamenta
 | Graphs              | ███░░░░░░░░░░░░░░░░░ 15%  |
 | Dynamic Programming | ██░░░░░░░░░░░░░░░░░░ 10%  |
 
-> Progress will evolve as I complete more concepts and problems.
-
----
-
-## 🚀 Featured Projects
-
-### [DSA-Java](https://github.com/gentleG1ant/DSA-Java)
-
-Java implementations of Data Structures & Algorithms concepts and problem-solving approaches.
-
-**Focus:** Java • DSA • Problem Solving • Algorithms
-
 ---
 
 ## 🎯 Current Goals
 
-* Strengthen Java & DSA
-* Solve problems consistently
-* Improve SQL & DBMS
+* Strengthen Java and DSA fundamentals
+* Solve DSA problems consistently
+* Improve SQL and DBMS knowledge
 * Build practical AI/ML projects
-* Develop production-oriented software
-* Contribute to open source
 * Prepare for software engineering placements
+* Maintain clean and structured GitHub projects
 
 ---
 
@@ -136,6 +124,21 @@ Learn → Practice → Build → Improve → Repeat
 
 ---
 
-## Connect With Me
+## ⭐ Featured Project
 
-[LinkedIn](https://www.linkedin.com/in/raj-aryan-dev/) • [GitHub](https://github.com/gentleG1ant)
+### [DSA-Java](https://github.com/gentleG1ant/DSA-Java)
+
+Java implementations of Data Structures & Algorithms concepts and problem-solving practice.
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/raj-aryan-dev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/gentleG1ant">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
