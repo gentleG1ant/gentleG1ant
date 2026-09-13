@@ -76,16 +76,8 @@ Working on practical projects involving Python, machine learning, data processin
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="180"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="180"
-    alt="Top Languages"
-  />
+  <img src="./profile/stats.svg" height="180" alt="GitHub Statistics" />
+  <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
 ---
