@@ -77,12 +77,12 @@ Working on practical projects involving Python, machine learning, data processin
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=gentleG1ant&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github"
+    src="./profile/stats.svg"
     height="180"
     alt="GitHub Statistics"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gentleG1ant&layout=compact&langs_count=8&hide_border=true"
+    src="./profile/top-langs.svg"
     height="180"
     alt="Top Languages"
   />
@@ -90,8 +90,6 @@ Working on practical projects involving Python, machine learning, data processin
 
 ---
 
-
----
 
 ## 🎯 Current Goals
 
