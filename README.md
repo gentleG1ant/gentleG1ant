@@ -79,6 +79,12 @@ Working on practical projects involving Python, machine learning, data processin
   <img src="profile/top-langs.svg" width="48%" alt="Top Languages" />
 </p>
 
+<p align="center">
+  <img src="profile/streak.svg" width="97%" alt="GitHub Streak" />
+</p>
+
+
+
 ---
 
 
