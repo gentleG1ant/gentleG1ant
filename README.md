@@ -72,21 +72,13 @@ Working on practical projects involving Python, machine learning, data processin
 ![JupyterLab](https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge\&logo=jupyter\&logoColor=white)
 
 ---
-
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/gentleG1ant/gentleG1ant/main/profile/stats.svg"
-    width="48%"
-    alt="GitHub Statistics"
-  />
-  <img
-    src="https://raw.githubusercontent.com/gentleG1ant/gentleG1ant/main/profile/top-langs.svg"
-    width="48%"
-    alt="Top Languages"
-  />
+  <img src="profile/stats.svg" width="48%" alt="GitHub Statistics" />
+  <img src="profile/top-langs.svg" width="48%" alt="Top Languages" />
 </p>
+
 ---
 
 
