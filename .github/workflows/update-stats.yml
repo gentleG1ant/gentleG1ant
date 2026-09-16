@@ -34,6 +34,19 @@ jobs:
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+          BLOCK HERE FOR THE STREAK GRAPH:
+      - name: Generate GitHub Streak Stats
+        uses: DenverCoder1/github-readme-streak-stats-action@v1
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user: ${{ github.repository_owner }}
+          theme: neon
+          hide_border: true
+          path: profile/streak.svg
+
+      - name: Commit updated statistics
+        run: |
+
       - name: Commit updated statistics
         run: |
           git config user.name "github-actions[bot]"
