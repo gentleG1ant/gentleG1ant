@@ -1,6 +1,8 @@
 name: Update GitHub Stats
 
 on:
+  schedule:
+    - cron: "0 0 * * *" # Runs automatically every day at midnight to update stats
   workflow_dispatch:
 
 permissions:
@@ -18,7 +20,8 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github
+          # Added theme=neon directly into options
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=neon
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -26,83 +29,15 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true
+          # Added theme=neon directly into options
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide_border=true&theme=neon
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Apply Neon Theme
-        shell: python
-        run: |
-          from pathlib import Path
-          import re
-
-          files = [
-              Path("profile/stats.svg"),
-              Path("profile/top-langs.svg")
-          ]
-
-          for file in files:
-              svg = file.read_text(encoding="utf-8")
-
-              # Dark background
-              svg = re.sub(
-                  r'fill="(?:#fff|#ffffff|white)"',
-                  'fill="#0D1117"',
-                  svg,
-                  flags=re.IGNORECASE
-              )
-
-              # Common light background declarations
-              svg = re.sub(
-                  r'fill:\s*(?:#fff|#ffffff|white)',
-                  'fill:#0D1117',
-                  svg,
-                  flags=re.IGNORECASE
-              )
-
-              # Main blue/title colors
-              svg = re.sub(
-                  r'fill="(?:#2f80ed|#0366d6|#0366D6)"',
-                  'fill="#00D9FF"',
-                  svg,
-                  flags=re.IGNORECASE
-              )
-
-              # Replace common dark text with white
-              svg = re.sub(
-                  r'fill="(?:#333|#333333|#24292e|#586069)"',
-                  'fill="#FFFFFF"',
-                  svg,
-                  flags=re.IGNORECASE
-              )
-
-              # Add a final dark background behind everything
-              svg = svg.replace(
-                  '<svg ',
-                  '<svg ',
-                  1
-              )
-
-              # Insert a background rectangle immediately after <svg>
-              match = re.search(r'(<svg[^>]*>)', svg)
-
-              if match:
-                  background = (
-                      '<rect width="100%" height="100%" '
-                      'fill="#0D1117" rx="10" ry="10"/>'
-                  )
-                  svg = (
-                      svg[:match.end()]
-                      + background
-                      + svg[match.end():]
-                  )
-
-              file.write_text(svg, encoding="utf-8")
 
       - name: Commit updated statistics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add profile/*.svg
-          git diff --cached --quiet || git commit -m "Apply neon GitHub stats theme"
+          git diff --cached --quiet || git commit -m "Update daily stats with native neon theme"
           git push
