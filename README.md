@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/gentleG1ant">
-    <img src="https://komarev.com/ghpvc/?username=gentleG1ant&style=flat-square&color=blue" alt="Profile views"/>
+    <img src="https://komarev.com/ghpvc/?username=gentleG1ant&style=flat-square&color=red" alt="Profile views"/>
   </a>
 </p>
 
