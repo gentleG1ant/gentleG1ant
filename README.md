@@ -26,6 +26,7 @@ I am an MCA student focused on building strong programming fundamentals, solving
 * Python & AI/ML
 * SQL & DBMS
 * Placement-oriented projects
+* Real-World Projects
 
 ---
 
