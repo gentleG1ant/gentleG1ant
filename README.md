@@ -81,7 +81,7 @@ Working on practical projects involving Python, machine learning, data processin
 </p>
 
 <p align="center">
-  <img src="profile/streak.svg" width="97%" alt="GitHub Streak" />
+  <img src="profile/streak.svg" width="90%" alt="GitHub Streak" />
 </p>
 
 
