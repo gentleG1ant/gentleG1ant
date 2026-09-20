@@ -77,7 +77,7 @@ Working on practical projects involving Python, machine learning, data processin
 
 <p align="center">
   <img src="profile/stats.svg" width="45%" alt="GitHub Statistics" />
-  <img src="profile/top-langs.svg" width="95%" alt="Top Languages" />
+  <img src="profile/top-langs.svg" width="49%" alt="Top Languages" />
 </p>
 
 <p align="center">
