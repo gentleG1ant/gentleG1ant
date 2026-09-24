@@ -5,7 +5,7 @@
 <h1 align="center">Hi, I'm Raj Aryan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=MCA+Student+%7C+Java+%26+DSA;Python+%7C+AI%2FML;Building+Projects+%7C+Preparing+for+Placements" alt="Typing introduction" />
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&color=FF0000&lines=MCA+Student+%7C+Java+%26+DSA;Python+%7C+AI%2FML;Building+Projects+%7C+Preparing+for+Placements" alt="Typing introduction" />
 </p>
 
 <p align="center">
